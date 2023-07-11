@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnort20
 - 👀 I’m interested in cyber security and AI
-- 🌱 I’m currently learning computer science at the university of Reykjavík
+- 🌱 I've graduated from Reykjavik University, B.Sc. computer science
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me on my email, arnor__96@hotmail.com
 
